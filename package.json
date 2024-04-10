@@ -2,10 +2,6 @@
   "name": "backpack-ios",
   "version": "0.0.0",
   "private": true,
-  "engines": {
-    "node": "^18.16.0",
-    "npm": "^9.5.1"
-  },
   "scripts": {
     "test": "eslint . --ext .js,.jsx",
     "build": "npm run test && gulp",
